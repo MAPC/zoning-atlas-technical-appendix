@@ -6,7 +6,9 @@ This field describes whether two or more residential units are allowed on a lot 
 
 In populating the MULTIFAM field, we found several zones where two or more units were allowed by-right but only in unique instances, such as in a conversion of an existing single-family home to a two-family home or when the occupants of the building were elderly and low-income. MAPC generally did not classify these zones as by-right multifamily zones because two or more residential units were not universally permitted.  
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Multifamily is populated for all zones in the Atlas. 
 {% endhint %}
+
+
 

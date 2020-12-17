@@ -10,7 +10,7 @@
 * [Field Structure](field-structure-for-base-zoning-districts.md)
 * [Field Categories](field-notes/README.md)
   * [Zone Use Type](field-notes/zone-use-type.md)
-  * [Multifamily](field-notes/multifamily.md)
+  * [Multifamily Housing](field-notes/multifamily.md)
   * [Minimum Lot Size](field-notes/minimum-lot-size.md)
   * [Maximum Percent Lot Coverage](field-notes/maximum-percent-lot-coverage.md)
   * [Minimum Land Area per Dwelling Unit](field-notes/minimum-land-area-per-dwelling-unit.md)
@@ -19,5 +19,5 @@
   * [Maximum Dwelling Units](field-notes/maximum-dwelling-units.md)
   * [Dwelling Units per Acre](field-notes/dwelling-units-per-acre.md)
   * [Floor-area Ratio](field-notes/floor-area-ratio.md)
-* [Data Dictionary](metadata.md)
+* [Data Dictionary](data-dictionary.md)
 

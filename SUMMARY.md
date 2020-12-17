@@ -20,4 +20,5 @@
   * [Maximum Dwelling Units](field-notes/maximum-dwelling-units.md)
   * [Dwelling Units per Acre](field-notes/dwelling-units-per-acre.md)
   * [Floor-area Ratio](field-notes/floor-area-ratio.md)
+* [Metadata](metadata.md)
 

@@ -4,7 +4,7 @@ description: The section of the technical documentation pertains to base zoning 
 
 # Field Structure
 
-The lack of specified data for many core fields, and the corresponding addition of standardized estimation methods, led to the following six-part structure for each one of the core fields and many of the support fields: 
+The lack of specified data for many of the core fields, and the corresponding addition of standardized estimation methods, led to the following six-part structure for each one of the core fields and many of the support fields: 
 
 ### 1. Zone Value
 

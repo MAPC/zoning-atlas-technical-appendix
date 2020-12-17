@@ -2,7 +2,7 @@
 
 The Zoning Atlas consists of spatial data and associated tabular data for the base zoning districts and the overlay districts of the 101 municipalities in the MAPC region. This dataset is a unique resource for planners, researchers, and advocates interested in land use, development patterns, and development opportunities across the region.  
 
-This technical appendix contains a summary of the Zoning Atlas data sources and, particular to base zoning districts, a discussion of our approach to the interpretation of bylaws and ordinances, a summary of the field structure of the tabular data, and an overview of each major field category in the tabular data. A complete data dictionary for the Zoning Atlas can be accessed at the link below.
+This technical appendix contains a summary of the Zoning Atlas data sources and, particular to base zoning districts, a discussion of our approach to the interpretation of bylaws and ordinances, a summary of the field structure of the tabular data, and an overview of each major field group in the tabular data. A complete data dictionary for the Zoning Atlas can be accessed at the link below.
 
 {% page-ref page="data-dictionary.md" %}
 

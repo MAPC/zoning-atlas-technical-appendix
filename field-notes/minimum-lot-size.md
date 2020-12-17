@@ -13,7 +13,7 @@ The `MINLOTSIZE` value published in the Zoning Atlas corresponds with the greate
 
 We found several bylaws and ordinances with tiered minimum lot sizes. For example, a minimum lot size of 5,000SF for the first dwelling unit and then 2,500SF for each additional dwelling unit. In these instances, we would try to determine the applicable minimum lot size for the largest structure allowed by-right in that zone – in this example, the maximum number of dwelling units, 6 – and, if it was available, scale the recorded value of `MINLOTSIZE` to fit \(5,000SF + \(2,500SF \* \(6 - 1\) = 17,500SF\). When we could not determine the largest structure allowed by-right, and thus could not reasonably calculate this upper bound, we recorded the base value.  
 
-> Example: A zone with a maximum of six dwelling units per lot, which specifies a minimum lot size of 5,000SF for the first dwelling unit and then 2,500SF for each additional dwelling unit would have a `MINLOTSIZE` of 17,000SF, equal to \(5,000SF + \(2,500SF \* \(6 - 1\).
+> Example: A zone with a maximum of six dwelling units per lot, which specifies a minimum lot size of 5,000SF for the first dwelling unit and then 2,500SF for each additional dwelling unit would have a `MINLOTSIZE` of 17,000SF, equal to \(5,000SF + \(2,500SF \* \(5 additional dwelling units\).
 
 When we could not determine the largest structure allowed by-right, and thus could not reasonably calculate this upper bound, we recorded the base value.  
 

@@ -9,7 +9,7 @@ description: Support Field
 * Associated Fields: `MXDU_SPEC`, `MXDU_OVE`, `MXDU_CALC1`, `MXDU_CALC2`, `MXDU_CALC3`, `MXDU_EFF`, `MXDU_ESVAL` 
 * Value Referenced In: `MNLS_CALC`, `DUpAC_CALC1` 
 
-This field catalogues the maximum number of dwelling units allowed on a lot by-right. As with other dimensional regulations in the Zoning Atlas, the published value corresponds with the dimensional regulations of the greatest density use. While most zones allow any number of dwelling units under the defined maximum to be constructed, this is not universally true: some zones do also specify a dwelling unit minimum. It would be inaccurate to apply the `MAXDU` field as a range of allowable dwelling units that starts at 1 and ends at the specified value for `MAXDU`.  
+This field catalogs the maximum number of dwelling units allowed on a lot by-right. As with other dimensional regulations in the Zoning Atlas, the published value corresponds with the dimensional regulations of the greatest density use. While most zones allow any number of dwelling units under the defined maximum to be constructed, this is not universally true: some zones do also specify a dwelling unit minimum. It would be inaccurate to apply the `MAXDU` field as a range of allowable dwelling units that starts at 1 and ends at the specified value for `MAXDU`.  
 
 In the example below, the Multifamily/Apartment housing is allowed by-right in the DC District but single and two-family homes are never permitted.  
 

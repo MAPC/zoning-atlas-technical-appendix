@@ -8,7 +8,7 @@
   * [Not Referenced or Unspecified Core Fields](interpretation-of-base-zoning-districts/specifies-all-five-priority-fields.md)
   * [Multiple By-Right Dimensional Regulations](interpretation-of-base-zoning-districts/specifies-several-but-not-all-priority-fields.md)
 * [Field Structure](field-structure-for-base-zoning-districts.md)
-* [Field Categories](field-notes/README.md)
+* [Field Groups](field-notes/README.md)
   * [Zone Use Type](field-notes/zone-use-type.md)
   * [Multifamily Housing](field-notes/multifamily.md)
   * [Minimum Lot Size](field-notes/minimum-lot-size.md)

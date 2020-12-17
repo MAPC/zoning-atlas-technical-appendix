@@ -2,7 +2,7 @@
 description: The section of the technical documentation pertains to base zoning districts.
 ---
 
-# Field Categories
+# Field Groups
 
 The following notes relate to core fields and support fields in the Atlas:
 

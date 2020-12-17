@@ -9,7 +9,7 @@ description: Core Field
 * Associated Fields: `DUpAC_SPEC`, `DUpAC_OVE`, `DUpAC_CALC1`, `DUpAC_CALC2`, `DUpAC_EFF`, `DUpAC_ESVAL` 
 * Value Referenced In: N/A 
 
-This field catalogues the maximum allowable dwelling unit density in terms of dwelling units per acre. This allows a standardized comparison of density across zones that allow residential uses. 
+This field catalogs the maximum allowable dwelling unit density in terms of dwelling units per acre. This allows a standardized comparison of density across zones that allow residential uses. 
 
 `DUpAC` is populated for approximately 20% of the zones in the Atlas where residential development is allowed by-right. `DUpAC`can also be expressed in terms of `MAXDU` and `MINLOTSIZE`, so we were able to calculate `DUpAC` for an additional 35% of zones by calculating the number of lots that could be constructed on an acre \(43,560SF /`MINLOTSIZE`\) and multiplying by `MAXDU`. These `DUpAC` estimates are in `DUpAC_CALC1`. 
 

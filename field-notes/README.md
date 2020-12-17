@@ -1,8 +1,8 @@
-# Field Notes
+# Input Fields for Base Zoning Districts
 
 ### Field Notes
 
-Relate to specific fields in the Atlas:
+The following notes relate to specific fields in the Atlas:
 
 {% page-ref page="zone-use-type.md" %}
 

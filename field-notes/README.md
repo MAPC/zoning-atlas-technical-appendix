@@ -1,8 +1,10 @@
-# Input Fields for Base Zoning Districts
+---
+description: The section of the technical documentation pertains to base zoning districts.
+---
 
-### Field Notes
+# Field Categories
 
-The following notes relate to specific fields in the Atlas:
+The following notes relate to core fields and support fields in the Atlas:
 
 {% page-ref page="zone-use-type.md" %}
 

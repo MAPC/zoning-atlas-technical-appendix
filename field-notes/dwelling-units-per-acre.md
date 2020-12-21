@@ -13,7 +13,9 @@ This field catalogs the maximum allowable dwelling unit density in terms of dwel
 
 #### Estimation
 
-`DUpAC` is populated for approximately 20% of the zones in the Atlas where residential development is allowed by-right. `DUpAC`can also be expressed in terms of `MAXDU` and `MINLOTSIZE`, so we were able to calculate `DUpAC` for an additional 35% of zones by calculating the number of lots that could be constructed on an acre \(43,560SF /`MINLOTSIZE`\) and multiplying by `MAXDU`. These `DUpAC` estimates are in `DUpAC_CALC1`. 
+`DUpAC` is populated for approximately 20% of the zones in the Atlas where residential development is allowed by-right. 
+
+`DUpAC`can also be expressed in terms of `MAXDU` and `MINLOTSIZE`, so we were able to calculate `DUpAC` for an additional 35% of zones by calculating the number of lots that could be constructed on an acre \(43,560SF /`MINLOTSIZE`\) and multiplying by `MAXDU`. These `DUpAC` estimates are in `DUpAC_CALC1`. 
 
 For the 45% zones in the Atlas where residential development is allowed by-right, but where `DUpAC`, `MINLOTSIZE`, and `MAXDU` were not specified, MAPC was able to estimate `DUpAC` using two different methods:  
 

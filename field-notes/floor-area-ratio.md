@@ -9,9 +9,7 @@ description: Core Field
 * Associated Fields: `FAR_SPEC`, `FAR_OVE`, `FAR_CALC`, `FAR_EFF` 
 * Value Referenced In: `MXDU_CALC2`, `DUpAC_CALC2` 
 
-This field catalogs the maximum FAR allowed in a zone by-right. This allows a standardized comparison of density across zones that allow non-residential uses.  
-
-#### Estimation
+This field catalogues the maximum FAR allowed in a zone by-right. This allows a standardized comparison of density across zones that allow non-residential uses.  
 
 Approximately 60% of the zones in the Atlas where non-residential uses are allowed by-right \(`ZO_USETY 2` and `3`\) have an FAR sourced from a Bylaw or Ordinance; the same is true for approximately 35% of the zones where only residential uses are allowed by-right \(`ZO_USETY 1`\). 
 

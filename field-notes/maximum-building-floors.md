@@ -17,7 +17,11 @@ As with other dimensional regulations in the Zoning Atlas, in zones with multipl
 
 #### Estimation
 
-`MAXFLRS` is populated for approximately 50% of the zones in the Atlas. Where `MAXFLRS` was not specified in the Bylaw or Ordinance, MAPC provided an estimate in the Calculated Maximum Floors  \(`MXFL_CALC`\) field by dividing `MAXHEIGHT` by 10 feet and rounding down. `MAXFLRS` is used to estimate `MAXHEIGHT`. The value in the Effective Maximum Floors \(`MXFL_EFF`\) field is used in one estimation of Maximum Dwelling Units and in the estimation for FAR. 
+`MAXFLRS` is populated for approximately 50% of the zones in the Zoning Atlas. 
+
+Where `MAXFLRS` was not specified in the Bylaw or Ordinance, MAPC provided an estimate in the Calculated Maximum Floors  \(`MXFL_CALC`\) field by dividing `MAXHEIGHT` by 10 feet and rounding down. `MAXFLRS` is used to estimate `MAXHEIGHT`. The value in the Effective Maximum Floors \(`MXFL_EFF`\) field is used in one estimation of Maximum Dwelling Units and in the estimation for FAR. 
+
+#### Support
 
 `MAXFLRS` is used to estimate `MAXHEIGHT.` The value in the Effective Maximum Floors \(`MXFL_EFF`\) field is used in one estimation of Maximum Dwelling Units and in the estimation for FAR.
 

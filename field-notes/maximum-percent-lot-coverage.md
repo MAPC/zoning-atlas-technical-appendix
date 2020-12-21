@@ -17,7 +17,9 @@ As with other dimensional regulations in the Zoning Atlas, in zones with multipl
 
 #### Estimation
 
-`PCTLOTCOV` is populated for approximately 60% of the zones in the Atlas. For the 40% of zones without a specified maximum percent lot coverage, MAPC estimated this value as 100%. These estimated values are calculated in the `PLC_CALC` field.
+`PCTLOTCOV` is populated for approximately 60% of the zones in the Zoning Atlas. 
+
+For the 40% of zones without a specified maximum percent lot coverage, MAPC estimated this value as 100%. These estimates are in the `PLC_CALC` field.
 
 There are 20 instances where this estimate is superseded by an override value in the `PLC_OVE` field that draws on minimum setbacks.
 

@@ -23,5 +23,7 @@ When we could not determine the largest structure allowed by-right, and thus cou
 
 #### Estimation
 
-`MINLOTSIZE` is populated for approximately 80% of the zones in the Zoning Atlas. MAPC was able to estimate minimum lot size for an additional 2% of the zones in the Atlas by multiplying the specified values for Maximum Dwelling Units and Minimum Land Area per Dwelling Unit. These estimated values are calculated in the `MNLS_CALC` field.
+`MINLOTSIZE` is populated for approximately 80% of the zones in the Zoning Atlas. 
+
+MAPC was able to estimate minimum lot size for an additional 2% of the zones by multiplying the specified values for Maximum Dwelling Units and Minimum Land Area per Dwelling Unit. These estimates are in the `MNLS_CALC` field.
 

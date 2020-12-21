@@ -17,5 +17,11 @@ As with other dimensional regulations in the Zoning Atlas, in zones with multipl
 
 #### Estimation
 
-`MAXHEIGHT` is populated for approximately 80% of the zones in the Atlas. Where a maximum building height was not specified in the Bylaw or Ordinance, MAPC provided an estimate in the Calculated Maximum Height \(`MXHT_CALC`\) field by multiplying the value in the Maximum Floors field by 10 feet and rounding down. `MAXHEIGHT` is used to estimate Maximum Building Floors.
+`MAXHEIGHT` is populated for approximately 80% of the zones in the Zoning Atlas. 
+
+Where a maximum building height was not specified in the Bylaw or Ordinance, MAPC provided an estimate in the Calculated Maximum Height \(`MXHT_CALC`\) field by multiplying the value in the Maximum Floors \(`MXFLRS`\) field by 10 feet and rounding down. 
+
+#### Support
+
+`MAXHEIGHT` is used to estimate Maximum Building Floors.
 

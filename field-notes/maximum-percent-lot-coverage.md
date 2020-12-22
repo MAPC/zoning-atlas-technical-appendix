@@ -21,7 +21,5 @@ As with other dimensional fields in the Zoning Atlas, in zones with multiple set
 
 For the 40% of zones without a specified maximum percent lot coverage, MAPC estimated this value as 100%. These estimates are in the `PLC_CALC` field.
 
-There are 20 instances where this estimate is superseded by an override value in the `PLC_OVE` field that draws on minimum setbacks.
-
 
 

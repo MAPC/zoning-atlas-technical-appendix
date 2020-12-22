@@ -11,7 +11,7 @@ description: Support Field
 
 This field catalogs the minimum amount of lot area required for each dwelling unit on a lot within a zone, in square feet. 
 
-#### Interpretation
+### Interpretation
 
 As with other dimensional fields in the Zoning Atlas, in zones with multiple sets of dimensional regulations, the published value corresponds with the greatest density use allowed in the zone by-right.  Greatest density is determined by maximum dwelling units per acre \(`DUpAC`\), in the case of residential development, or by the floor-area ratio \(`FAR`\), in the case of mixed-use or non-residential development. 
 
@@ -19,11 +19,11 @@ As with [Minimum Lot Size](minimum-lot-size.md), in zones with tiered minimum la
 
 > Example: A zone with an minimum land area per dwelling unit of 6,000SF plus 1,250SF for each dwelling unit more than 1 would have an `LApDU` of 1,250SF.
 
-#### Estimation
+### Estimation
 
 `LApDU` is populated for approximately 40% of the zones in the Zoning Atlas where residential development is allowed by-right. There is not currently a field where unspecified values are estimated.
 
-#### Support
+### Support
 
 `LApDU` is used to estimate minimum lot size \(`MNLS_CALC`\) and in one estimation of maximum dwelling units \(`MXDU_CALC1`\).
 
